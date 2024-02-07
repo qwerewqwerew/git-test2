@@ -1,5 +1,5 @@
 # 블루마켓 <!-- omit in toc -->
-
+### [기획서 보기](./project1.pdf)
 > 블루마켓을 **리디자인후 구현**한 프로젝트 입니다.
 >
 > 배포화면 보기 [사이트보기](https://qwerewqwerew.github.io/git01/)
@@ -13,8 +13,6 @@
 - [특징](#특징)
   - [주요구현사항:](#주요구현사항)
 - [Screenshots](#screenshots)
-- [Setup](#setup)
-- [Usage](#usage)
 - [Project Status](#project-status)
 - [Room for Improvement](#room-for-improvement)
 - [Acknowledgements](#acknowledgements)
@@ -86,18 +84,6 @@ body
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
-## Setup
-
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
 
 ## Project Status
 
@@ -127,7 +113,7 @@ Give credit here.
 
 ## Contact
 
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@권난주](https://www.flynerd.pl/) - 대표님 바로 면접 가능합니다!
 
 <!-- Optional -->
 <!-- ## License -->
